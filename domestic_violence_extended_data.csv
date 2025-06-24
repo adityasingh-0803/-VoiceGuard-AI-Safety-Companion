@@ -1,0 +1,59 @@
+State,Year,Age_Group,Urban_Rural,Marital_Status,Cases_Reported
+Uttar Pradesh,2020,15-24,Urban,Married,3120
+Uttar Pradesh,2020,25-34,Rural,Married,4200
+Uttar Pradesh,2020,35-49,Urban,Unmarried,1900
+Uttar Pradesh,2021,15-24,Urban,Married,3210
+Uttar Pradesh,2021,25-34,Rural,Married,4105
+Uttar Pradesh,2021,35-49,Urban,Married,2740
+Maharashtra,2020,15-24,Rural,Unmarried,1200
+Maharashtra,2020,25-34,Urban,Married,3950
+Maharashtra,2020,35-49,Rural,Married,2890
+Maharashtra,2021,15-24,Rural,Unmarried,1023
+Maharashtra,2021,25-34,Urban,Married,3870
+Maharashtra,2021,35-49,Rural,Married,3120
+West Bengal,2020,15-24,Rural,Married,2220
+West Bengal,2020,25-34,Urban,Married,2750
+West Bengal,2020,35-49,Urban,Unmarried,1850
+West Bengal,2021,15-24,Rural,Married,2455
+West Bengal,2021,25-34,Urban,Married,2870
+West Bengal,2021,35-49,Urban,Married,2150
+Bihar,2020,15-24,Rural,Married,2650
+Bihar,2020,25-34,Urban,Married,2950
+Bihar,2020,35-49,Rural,Married,1850
+Bihar,2021,15-24,Rural,Married,2780
+Bihar,2021,25-34,Urban,Married,3050
+Bihar,2021,35-49,Rural,Married,1990
+Tamil Nadu,2020,15-24,Urban,Unmarried,1170
+Tamil Nadu,2020,25-34,Rural,Married,2150
+Tamil Nadu,2020,35-49,Urban,Married,1720
+Tamil Nadu,2021,15-24,Urban,Unmarried,1230
+Tamil Nadu,2021,25-34,Rural,Married,2320
+Tamil Nadu,2021,35-49,Urban,Married,1800
+Kerala,2020,15-24,Urban,Married,940
+Kerala,2020,25-34,Urban,Married,1420
+Kerala,2020,35-49,Rural,Unmarried,1040
+Kerala,2021,15-24,Urban,Married,980
+Kerala,2021,25-34,Urban,Married,1570
+Kerala,2021,35-49,Rural,Married,1200
+Delhi,2020,15-24,Urban,Unmarried,850
+Delhi,2020,25-34,Urban,Married,1290
+Delhi,2020,35-49,Urban,Married,1020
+Delhi,2021,15-24,Urban,Unmarried,880
+Delhi,2021,25-34,Urban,Married,1330
+Delhi,2021,35-49,Urban,Married,1100
+Rajasthan,2020,15-24,Rural,Married,1930
+Rajasthan,2020,25-34,Rural,Married,2120
+Rajasthan,2021,15-24,Rural,Married,2050
+Rajasthan,2021,25-34,Rural,Married,2280
+Karnataka,2020,15-24,Urban,Unmarried,960
+Karnataka,2020,25-34,Urban,Married,1720
+Karnataka,2021,15-24,Urban,Unmarried,1040
+Karnataka,2021,25-34,Urban,Married,1800
+Assam,2020,15-24,Rural,Married,1450
+Assam,2020,25-34,Rural,Married,1630
+Assam,2021,15-24,Rural,Married,1530
+Assam,2021,25-34,Rural,Married,1700
+Jharkhand,2020,15-24,Rural,Married,1320
+Jharkhand,2020,25-34,Rural,Married,1480
+Jharkhand,2021,15-24,Rural,Married,1400
+Jharkhand,2021,25-34,Rural,Married,1550
