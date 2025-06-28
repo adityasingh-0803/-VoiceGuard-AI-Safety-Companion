@@ -57,7 +57,6 @@ Pyaudio – Mic support
 | Tamil    | சட்ட உதவி எங்கே கிடைக்கும்? | Law    | ⚖️ Section 498A IPC protects you                             |
 
 ## 💡 Hackathon Fit
-🎯 Submitted for: AITHON – AI for Social Good Hackathon
 
 VoiceGuard aligns with the Community & Safety, Inclusion & Equity, and Ethical AI goals by enabling accessible, real-world AI-powered support.
 
